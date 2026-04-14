@@ -1,5 +1,5 @@
 ## Navigator-project
-[!screenshot project](https://github.com/yash1880/Navigator-Project/blob/739ec33758e3a512b7310274806fbd8aa21b57c4/Screenshot%202026-04-14%20120848.png)
+![screenshot project](https://github.com/yash1880/Navigator-Project/blob/739ec33758e3a512b7310274806fbd8aa21b57c4/Screenshot%202026-04-14%20120848.png)
 
 # Employee Management System
 
